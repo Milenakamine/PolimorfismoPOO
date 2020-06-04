@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\bin\Debug\netcoreapp3.1\PolimorfismoPOO.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\bin\Debug\netcoreapp3.1\PolimorfismoPOO.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\bin\Debug\netcoreapp3.1\PolimorfismoPOO.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\bin\Debug\netcoreapp3.1\PolimorfismoPOO.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\bin\Debug\netcoreapp3.1\PolimorfismoPOO.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\bin\Debug\netcoreapp3.1\PolimorfismoPOO.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\PolimorfismoPOO\PolimorfismoPOO\obj\Debug\netcoreapp3.1\PolimorfismoPOO.genruntimeconfig.cache
